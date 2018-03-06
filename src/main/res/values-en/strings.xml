@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prueba</string>
+    <string name="titulo">OPERATION</string>
+    <string name="numeo_uno">Number one</string>
+    <string name="numero_dos">Number two</string>
+    <string name="boton">add</string>
+    <string name="borrar">Clear</string>
+    <string name="error_uno">value one</string>
+    <string name="error_dos">value two</string>
+</resources>

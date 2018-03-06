@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">prueba</string>
+    <string name="titulo">OPERACIONES</string>
+    <string name="numeo_uno">Numero uno</string>
+    <string name="numero_dos">Numero dos</string>
+    <string name="boton">sumar</string>
+    <string name="borrar">Borrar</string>
+    <string name="error_uno">Valor uno</string>
+    <string name="error_dos">Valor dos</string>
+</resources>
